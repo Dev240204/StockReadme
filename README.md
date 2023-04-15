@@ -5,11 +5,11 @@ Welcome to the documentation for the Stock Prediction Website, a web-based appli
 ## Table of Contents
 
 Installation
-Setup
-Usage
-Support
-Contributing
-License
+1.Setup
+2.Usage
+3.Support
+4.Contributing
+5.License
 
 
 ## Installation
