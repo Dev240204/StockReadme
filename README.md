@@ -6,9 +6,13 @@ Welcome to the documentation for the Stock Prediction Website, a web-based appli
 
 Installation
 1.Setup
+
 2.Usage
+
 3.Support
+
 4.Contributing
+
 5.License
 
 
