@@ -11,6 +11,7 @@ Welcome to the documentation for the Stock Prediction Website, a web-based appli
 5. Contributing
 6. License
 
+    console.log("SIUUU")
 
 ## Installation
 
