@@ -1,14 +1,16 @@
 # Stock Prediction Website Documentation for the stockwise
 
 Welcome to the documentation for the Stock Prediction Website, a web-based application for predicting stock prices. This document will guide you through the installation, setup, and usage of the application.
-Table of Contents
 
-    Installation
-    Setup
-    Usage
-    Support
-    Contributing
-    License
+## Table of Contents
+
+Installation
+Setup
+Usage
+Support
+Contributing
+License
+
 
 ## Installation
 
