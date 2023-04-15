@@ -10,7 +10,7 @@ Table of Contents
     Contributing
     License
 
-Installation
+# Installation
 
 To install the Stock Prediction Website, follow these steps:
 
