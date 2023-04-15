@@ -10,60 +10,56 @@ Welcome to the documentation for the Stock Prediction Website, a web-based appli
 4. Support
 5. Contributing
 6. License:
-    
-    console.log("SIUUU")
 
 ## Installation
 
 To install the Stock Prediction Website, follow these steps:
 
-    Clone the repository to your local machine using the following command:
-
-bash
-
+1. Clone the repository to your local machine using the following command:
+```
 git clone https://github.com/username/repository.git
-
-    Install the required dependencies by running the following command in the project directory:
-
+```
+1. Install the required dependencies by running the following command in the project directory:
+```
 npm install
-
-    Run the following command to start the application:
-
-sql
-
+```
+1. Run the following command to start the application:
+```
 npm start
+```
 
-Setup
+## Setup
 
 Before using the Stock Prediction Website, you will need to obtain an API key from a stock market data provider, such as Alpha Vantage or Yahoo Finance. Once you have obtained your API key, follow these steps to set it up:
 
-    Open the config.js file in the project directory.
-    Replace YOUR_API_KEY_HERE with your API key.
-    Save the file.
+1. Open the config.js file in the project directory.
+2. Replace YOUR_API_KEY_HERE with your API key.
+3. Save the file.
 
-Usage
+## Usage
 
 The Stock Prediction Website allows users to view historical stock prices and make predictions for future prices. Here's how to use the application:
 
-    Navigate to http://localhost:3000 in your web browser.
-    Enter the ticker symbol for the stock you would like to view.
-    Select the date range you would like to view.
-    Click the "View Historical Prices" button to view the historical prices for the selected stock and date range.
-    To make a prediction, enter the number of days in the future for which you would like to predict the stock price.
-    Click the "Make Prediction" button to view the predicted stock price for the selected number of days in the future.
+1. Navigate to http://localhost:3000 in your web browser.
+2. Enter the ticker symbol for the stock you would like to view.
+3. Select the date range you would like to view.
+4. Click the "View Historical Prices" button to view the historical prices for the selected stock and date range.
+5. To make a prediction, enter the number of days in the future for which you would like to predict the stock price.
+6. Click the "Make Prediction" button to view the predicted stock price for the selected number of days in the future.
 
-Support
+## Support
 
 If you have any questions or issues with the Stock Prediction Website, please contact our support team at support@stockprediction.com.
-Contributing
+
+##Contributing
 
 We welcome contributions from the open-source community! If you would like to contribute to the project, please follow these steps:
 
-    Fork the repository.
-    Create a new branch for your changes.
-    Make your changes and commit them to the new branch.
-    Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them to the new branch.
+4. Submit a pull request.
 
-License
+## License
 
 The Stock Prediction Website is licensed under the MIT License. See the LICENSE file in the project directory for more information.
