@@ -4,12 +4,12 @@ Welcome to the documentation for the Stock Prediction Website, a web-based appli
 
 ## Table of Contents
 
-### Installation
-### Setup
-### Usage
-### Support
-### Contributing
-### License
+Installation
+Setup
+Usage
+Support
+Contributing
+License
 
 
 ## Installation
