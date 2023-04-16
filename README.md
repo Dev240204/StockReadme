@@ -32,9 +32,9 @@ nodemon app.js
 
 ## Setup
 
-Before using the Stock Prediction Website, you will need to obtain an API key from a stock market data provider, such as Alpha Vantage or Yahoo Finance. Once you have obtained your API key, follow these steps to set it up:
+Before using the Stock Prediction Website, you will need to obtain an API key from a stock market data provider, such as Alpha Vantage. Once you have obtained your API key, follow these steps to set it up:
 
-1. Open the config.js file in the project directory.
+1. Open the Stocks.js file in the project directory.
 2. Replace YOUR_API_KEY_HERE with your API key.
 3. Save the file.
 
@@ -53,8 +53,8 @@ The Stock Prediction Website allows users to view historical stock prices and ma
 ## Contributing
 
 For the development, the team is currently having 4 members.
-1. Vatsal
-2. Varzil
+1. Arpit
+2. Vatsal
 3. Dev
-4. Arpit
+4. Varzil
 
