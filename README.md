@@ -50,7 +50,7 @@ The Stock Prediction Website allows users to view historical stock prices and ma
 6. Click the "Make Prediction" button to view the predicted stock price for the selected number of days in the future.
 
 
-##Contributing
+## Contributing
 
 For the development, the team is currently having 4 members.
 1. Vatsal
